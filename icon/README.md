@@ -1,1 +1,1 @@
-![Image text](https://raw.github.com/zzisk/zzisk.github.io/blob/main/icon/SMS.png)
+![](https://raw.githubusercontent.com/zzisk/zzisk.github.io/main/icon/SMS.png)
